@@ -14,45 +14,45 @@
     ]
   },
   "User": {
-    "dataSource": "db"
+    "dataSource": "mongotarki"
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": false
   },
   "codesheet": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": true
   },
   "consigne": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": true
   },
   "language": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": true
   },
   "mark": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": true
   },
   "user": {
-    "dataSource": "db",
+    "dataSource": "mongotarki",
     "public": true
   }
 }

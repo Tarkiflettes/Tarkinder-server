@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mongotarki": {
+    "host": "ds135156.mlab.com",
+    "port": 35156,
+    "database": "tarkinder",
+    "password": "admin",
+    "name": "mongotarki",
+    "user": "admin",
+    "connector": "mongodb",
+    "connectionTimeout": 1000000
   }
 }
